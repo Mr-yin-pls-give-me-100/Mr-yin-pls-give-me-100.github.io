@@ -3,11 +3,30 @@ h1 {
     text-align:center;
     color:purple;
     font-family:Arial Narrow Bold;
-    font-size:75px;
+    font-size:75px
 
+}
+
+h2 {
+
+    text-align:center
 }
 
 .team {
     text-align:center;
     width:400px
+}
+
+.textgreen {
+
+    color:green;
+    background-color:black
+}
+
+.fontsize20 {
+    font-size:20px
+}
+
+.textalign {
+    text-align:center
 }
