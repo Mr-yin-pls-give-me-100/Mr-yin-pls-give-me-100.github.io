@@ -1,7 +1,7 @@
 h1 {
 
     text-align:center;
-    color:purple;
+    color:black;
     font-family:Arial Narrow Bold;
     font-size:75px
 
@@ -30,3 +30,31 @@ h2 {
 .textalign {
     text-align:center
 }
+
+.linkstopage {
+    margin-left: 15%;
+    font-size: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 400px
+  }
+
+  .center-text {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .spaceleft {
+    padding-left: 200px;
+    border-spacing: 25px;
+  }
