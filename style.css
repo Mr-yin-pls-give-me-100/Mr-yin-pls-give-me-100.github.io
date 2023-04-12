@@ -12,6 +12,7 @@ h2 {
     text-align:center
 }
 
+
 .team {
     text-align:center;
     width:400px
@@ -55,6 +56,16 @@ h2 {
   }
 
   .spaceleft {
-    padding-left: 200px;
-    border-spacing: 25px;
+    padding-left: 400px;
+  }
+
+  .removeliststyle {
+    list-style-type: none;
+  }
+
+  .floatlist {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
   }
